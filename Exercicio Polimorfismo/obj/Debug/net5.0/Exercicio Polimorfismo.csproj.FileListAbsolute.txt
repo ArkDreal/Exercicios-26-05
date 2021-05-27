@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.exe
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.deps.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.runtimeconfig.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\ref\Exercicio Polimorfismo.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\bin\Debug\net5.0\Exercicio Polimorfismo.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\ref\Exercicio Polimorfismo.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercicios 26-05\Exercicio Polimorfismo\obj\Debug\net5.0\Exercicio Polimorfismo.genruntimeconfig.cache
